@@ -1,0 +1,10 @@
+{"placeable": { 
+    "speaker":
+    {
+        "frame": {"x":0,"y":0,"w":32,"h":32},
+        "trimmed": true,
+        "spriteSourceSize": {"x":0,"y":23,"w":32,"h":41},
+        "sourceSize": {"w":32,"h":64}
+    }
+}
+}
